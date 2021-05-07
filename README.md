@@ -2,4 +2,4 @@
 
 ## Imagens:
 
-![img-insta](C:\Users\Bruno\Downloads\img-insta.png)
+![img-insta](https://github.com/BrunoUemg/instagram-clone/blob/master/img/img-insta.png)
